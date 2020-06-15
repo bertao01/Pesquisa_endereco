@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    background-color:black;
+    color: white;
+    height: 60px;
+    margin: 10px 0 0 0;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: fixed;
+}
+
+.rodape{
+    width: auto;
+}
